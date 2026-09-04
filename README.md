@@ -48,7 +48,7 @@ The Customer Analysis page provides insights into customer performance and purch
 
 ### Dashboard Screenshot
 
-![Customer Analysis](Customer Analysis)
+![Customer Analysis](Customer Analysis.png)
 
 ---
 

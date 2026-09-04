@@ -1,102 +1,131 @@
-# Power-BI-Retail-Sales-Analysis-Dashboard
+# 📊 Power BI Retail Sales Analysis Dashboard
 
-## Project Overview
+## 📌 Project Overview
 
-This project is an interactive Power BI dashboard designed to analyze sales,
-customers, products, and order trends.
+This project is an interactive **Power BI Retail Sales Analysis Dashboard** developed to analyze sales performance, customer behavior, product performance, and order trends.
 
-The dashboard provides business insights through interactive visuals,
-KPIs, slicers, time intelligence, and customer/product analysis.
+The dashboard uses **Power Query, DAX, Data Modeling, and interactive visualizations** to transform retail data into meaningful business insights.
 
-## Dashboard Pages
+---
 
-### 1. Customer Analysis
+## 🎯 Project Objectives
 
-- Total Customers
-- Total Orders
-- Total Sales
-- Average Order Value
-- Top 10 Customers by Sales
-- Customers by Region
-- Customers by Segment
-- New Customers Trend
+- Analyze overall sales and profit performance
+- Understand customer purchasing behavior
+- Identify top and bottom-performing products
+- Analyze sales by category, sub-category, and region
+- Track sales trends over time
+- Perform time intelligence analysis
+- Build an interactive business intelligence dashboard
 
-![Customer Analysis](Dashboard%20Screenshots/Customer%20Analysis.png)
+---
 
-### 2. Sales Analysis
-
-- Total Sales
-- Total Profit
-- Total Quantity
-- Total Orders
-- Sales Over Time
-- Sales by Category
-- Sales by Region
-- Profit by Category
-- Sales vs Profit
-
-![Sales Analysis](Dashboard%20Screenshots/Sales%20Analysis.png)
-
-### 3. Product Analysis
-
-- Total Products
-- Total Sales
-- Total Quantity
-- Total Profit
-- Top 10 Products by Sales
-- Bottom 10 Products by Sales
-- Sales by Category
-- Sales by Sub-Category
-- Product Profitability Analysis
-
-![Product Analysis](Dashboard%20Screenshots/Product%20Analysis.png)
-
-### 4. Order & Time Intelligence
-
-- Total Sales
-- Sales LY
-- YOY Growth %
-- Sales YTD
-- YTD Growth %
-- Sales Trend
-- Sales by Quarter
-- Sales by Year
-- Monthly Sales Summary
-
-![Order & Time Intelligence](Dashboard%20Screenshots/Order%20%26%20Time%20Intelligence.png)
-
-## Tools & Technologies
+## 🛠️ Tools & Technologies
 
 - Power BI Desktop
 - Power Query
 - DAX
 - Data Modeling
+- SQL
+- Microsoft Excel
 
+---
 
-## Key Power BI Concepts Used
+# 📊 Dashboard Preview
 
-- Data Cleaning
-- Data Transformation
-- Star Schema
-- Relationships
-- DAX Measures
-- Time Intelligence
-- CALCULATE
-- SUM
-- SUMX
-- DIVIDE
-- DISTINCTCOUNT
-- YTD
-- Previous Year Sales
-- YOY Growth
-- Interactive Slicers
-- KPI Cards
+## 1️⃣ Customer Analysis
 
-## Project Objective
+The Customer Analysis page provides insights into customer performance and purchasing behavior.
 
-The objective of this project is to transform sales data into an interactive
-business intelligence dashboard and identify trends across customers,
-products, regions, categories, and time.
+**Key Analysis:**
+- Total Customers
+- Total Orders
+- Total Sales
+- Average Order Value
+- Customer Segments
+- Top Customers
+- Regional Customer Analysis
+
+### Dashboard Screenshot
+
+![Customer Analysis](Dashboard%20Screenshots/Customer%20Analysis.png)
+
+---
+
+## 2️⃣ Sales Analysis
+
+The Sales Analysis page provides an overview of overall business performance.
+
+**Key Analysis:**
+- Total Sales
+- Total Profit
+- Total Quantity
+- Total Orders
+- Sales by Category
+- Sales by Region
+- Profit Analysis
+- Sales Trends
+
+### Dashboard Screenshot
+
+![Sales Analysis](Dashboard%20Screenshots/Sales%20Analysis.png)
+
+---
+
+## 3️⃣ Product Analysis
+
+The Product Analysis page focuses on product and category performance.
+
+**Key Analysis:**
+- Top 10 Products
+- Bottom 10 Products
+- Sales by Category
+- Sales by Sub-Category
+- Product Quantity
+- Product Profitability
+
+### Dashboard Screenshot
+
+![Product Analysis](Dashboard%20Screenshots/Product%20Analysis.png)
+
+---
+
+## 4️⃣ Order & Time Intelligence
+
+This page focuses on order trends and time-based analysis.
+
+**Key Analysis:**
+- Total Sales
+- Sales YTD
+- Sales LY
+- YOY Growth %
+- YTD Growth %
+- Sales by Year
+- Sales by Quarter
+- Monthly Sales Trends
+
+### Dashboard Screenshot
+
+![Order & Time Intelligence](Dashboard%20%26%20Time%20Intelligence.png)
+
+---
+
+# 🔄 Data Preparation
+
+The data was cleaned and transformed using **Power Query**.
+
+### Data Cleaning
+
+- Removed duplicate records
+- Handled missing values
+- Changed data types
+- Renamed columns
+- Created calculated columns
+- Performed data transformations
+- Prepared data for modeling
+
+---
+
 
 ## Author
 

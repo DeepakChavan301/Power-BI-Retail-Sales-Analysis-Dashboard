@@ -48,7 +48,7 @@ The Customer Analysis page provides insights into customer performance and purch
 
 ### Dashboard Screenshot
 
-![Customer Analysis](Dashboard%20Screenshots/Customer%20Analysis.png)
+![Customer Analysis](Customer Analysis.png)
 
 ---
 
@@ -68,7 +68,7 @@ The Sales Analysis page provides an overview of overall business performance.
 
 ### Dashboard Screenshot
 
-![Sales Analysis](Dashboard%20Screenshots/Sales%20Analysis.png)
+![Sales Analysis](Sales Analysis.png)
 
 ---
 
@@ -86,7 +86,7 @@ The Product Analysis page focuses on product and category performance.
 
 ### Dashboard Screenshot
 
-![Product Analysis](Dashboard%20Screenshots/Product%20Analysis.png)
+![Product Analysis](Product Analysis.png)
 
 ---
 
@@ -106,7 +106,7 @@ This page focuses on order trends and time-based analysis.
 
 ### Dashboard Screenshot
 
-![Order & Time Intelligence](Dashboard%20%26%20Time%20Intelligence.png)
+![Order & Time Intelligence](Order & Time Intelligence.png)
 
 ---
 

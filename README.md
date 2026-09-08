@@ -2,9 +2,9 @@
 
 ## 📌 Project Overview
 
-This project is an interactive **Power BI Retail Sales Analysis Dashboard** developed to analyze sales performance, customer behavior, product performance, and order trends.
+This project is an interactive **Power BI Retail Sales Analysis Dashboard** created to analyze sales performance, customer behavior, product performance, and order trends.
 
-The dashboard uses **Power Query, DAX, Data Modeling, and interactive visualizations** to transform retail data into meaningful business insights.
+The dashboard transforms retail sales data into meaningful business insights using **Power Query, DAX, Data Modeling, and interactive visualizations**.
 
 ---
 
@@ -16,7 +16,7 @@ The dashboard uses **Power Query, DAX, Data Modeling, and interactive visualizat
 - Analyze sales by category, sub-category, and region
 - Track sales trends over time
 - Perform time intelligence analysis
-- Build an interactive business intelligence dashboard
+- Build interactive and user-friendly Power BI dashboards
 
 ---
 
@@ -26,8 +26,6 @@ The dashboard uses **Power Query, DAX, Data Modeling, and interactive visualizat
 - Power Query
 - DAX
 - Data Modeling
-- SQL
-- Microsoft Excel
 
 ---
 
@@ -37,18 +35,20 @@ The dashboard uses **Power Query, DAX, Data Modeling, and interactive visualizat
 
 The Customer Analysis page provides insights into customer performance and purchasing behavior.
 
-**Key Analysis:**
+### 🔍 Key Analysis
+
 - Total Customers
 - Total Orders
 - Total Sales
 - Average Order Value
-- Customer Segments
-- Top Customers
-- Regional Customer Analysis
+- Top 10 Customers by Sales
+- Customers by Region
+- Customers by Segment
+- New Customers Trend
 
-### Dashboard Screenshot
+### 📸 Dashboard Screenshot
 
-![Customer Analysis](Customer Analysis.png)
+![Customer Analysis](Dashboard%20Screenshots/Customer%20Analysis.png)
 
 ---
 
@@ -56,57 +56,65 @@ The Customer Analysis page provides insights into customer performance and purch
 
 The Sales Analysis page provides an overview of overall business performance.
 
-**Key Analysis:**
+### 🔍 Key Analysis
+
 - Total Sales
 - Total Profit
 - Total Quantity
 - Total Orders
+- Sales Over Time
 - Sales by Category
 - Sales by Region
-- Profit Analysis
-- Sales Trends
+- Profit by Category
+- Sales vs Profit
 
-### Dashboard Screenshot
+### 📸 Dashboard Screenshot
 
-![Sales Analysis](Sales Analysis.png)
+![Sales Analysis](Dashboard%20Screenshots/Sales%20Analysis.png)
 
 ---
 
 ## 3️⃣ Product Analysis
 
-The Product Analysis page focuses on product and category performance.
+The Product Analysis page provides insights into product and category performance.
 
-**Key Analysis:**
-- Top 10 Products
-- Bottom 10 Products
+### 🔍 Key Analysis
+
+- Total Products
+- Total Sales
+- Total Quantity
+- Total Profit
+- Top 10 Products by Sales
+- Bottom 10 Products by Sales
 - Sales by Category
 - Sales by Sub-Category
-- Product Quantity
-- Product Profitability
+- Product Profitability Analysis
 
-### Dashboard Screenshot
+### 📸 Dashboard Screenshot
 
-![Product Analysis](Product Analysis.png)
+![Product Analysis](Dashboard%20Screenshots/Product%20Analysis.png)
 
 ---
 
 ## 4️⃣ Order & Time Intelligence
 
-This page focuses on order trends and time-based analysis.
+The Order & Time Intelligence page provides insights into sales trends and time-based performance.
 
-**Key Analysis:**
+### 🔍 Key Analysis
+
 - Total Sales
-- Sales YTD
 - Sales LY
 - YOY Growth %
+- Sales YTD
 - YTD Growth %
-- Sales by Year
 - Sales by Quarter
-- Monthly Sales Trends
+- Sales by Year
+- Monthly Sales Summary
+- Current Year vs Previous Year Sales
 
-### Dashboard Screenshot
+### 📸 Dashboard Screenshot
 
-![Order & Time Intelligence](Order & Time Intelligence.png)
+![Order & Time Intelligence](Dashboard%20%26%20Time%20Intelligence.png)
 
 ---
 
@@ -114,7 +122,7 @@ This page focuses on order trends and time-based analysis.
 
 The data was cleaned and transformed using **Power Query**.
 
-### Data Cleaning
+### 🧹 Data Cleaning
 
 - Removed duplicate records
 - Handled missing values
@@ -124,9 +132,21 @@ The data was cleaned and transformed using **Power Query**.
 - Performed data transformations
 - Prepared data for modeling
 
+### 🔧 Data Transformation
+
+- Cleaned and standardized raw data
+- Filtered unnecessary records
+- Transformed columns for analysis
+- Created required fields
+- Prepared data for Power BI visualization
+- Structured the data for reporting and analysis
+
 ---
 
+# 🧮 DAX Measures
 
-## Author
+DAX was used to create important business measures for the dashboard.
 
-Deepak Chavan
+### AUTHOR
+
+**Deepak Chavan**
